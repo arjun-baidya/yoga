@@ -1,0 +1,28 @@
+
+.service{
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.right-column{
+    padding-top: 50px;
+    width: 100%;
+}
+
+.training-price{
+    color: #d3a78c;
+}
+.add-member-btn Button{
+    background-color: #d3a78c;
+    border: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 15px;
+}
+.add-member-btn Button:hover{
+    background-color: #be6229e8;
+}
+
+.service-img{
+    max-width:100%;
+    padding-top: 50px;
+}
