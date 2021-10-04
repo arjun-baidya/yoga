@@ -19,7 +19,7 @@ function Home() {
         <div>
             <Container>
                 <Row className="home-first-row">
-                    <Col md={4} sm={12} className="left-column">
+                    <Col sm={12} md={4}  className="left-column">
                         <h1 className="title">
                         Traditional <br/>
                         Yoga<br/>
@@ -27,7 +27,7 @@ function Home() {
                         </h1>
                         <Button className="join-btn" >Join Now</Button>
                     </Col>
-                    <Col md={8} sm={12} className="right-column">
+                    <Col sm={12} md={8}  className="right-column">
                         <Image className="home-yoga-image" src="./images/yoga.png"/>
                     </Col>
                 </Row>
